@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# [](#header-1)iOS Guideline
 
-You can use the [editor on GitHub](https://github.com/iforaa/CommentSold-Guideline/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [](#header-2) App Icon
 
-### Markdown
+![](https://trello-attachments.s3.amazonaws.com/551ad408c41114a159c94f7a/59f9eca29305e9f64584d1c0/409720f0f5202ba271c91747ac14679a/Icon-180_2.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+  Icon size | 
+------------ |
+1024px x 1024px |
+180px x 180px |
+120px x 120px |
+80px x 80px |
+87px x 87px |
+60px x 60px |
+58px x 58px |
+40px x 40px |
 
-# Header 1
-## Header 2
-### Header 3
+## [](#header-2) Pictures
 
-- Bulleted
-- List
+Use PDF for flat vector artwork.
 
-1. Numbered
-2. List
+Aspect ratio of iPhone X — 9:19.5
 
-**Bold** and _Italic_ and `Code` text
+Aspect ratio of all other iPhones — 9:16
 
-[Link](url) and ![Image](src)
-```
+  Picture name            | Real Life Example
+--------------------------|------------------
+  LaunchScreen            |![](https://trello-attachments.s3.amazonaws.com/551ad408c41114a159c94f7a/59f9eca29305e9f64584d1c0/6df9f275315bbf1b30981b85a486eaae/IMAGE_2017-11-01_18_47_37.jpg)
+--------------------------|------------------
+  CartPlaceholder         |![](https://trello-attachments.s3.amazonaws.com/551ad408c41114a159c94f7a/59f9eca29305e9f64584d1c0/5636d499bd81e87abe1f7f0778c475b1/IMG_1348.PNG)
+--------------------------|------------------
+  NotificationBackground  |![](https://trello-attachments.s3.amazonaws.com/551ad408c41114a159c94f7a/59f9eca29305e9f64584d1c0/18860de2f2e2b636d5e892f4180339a6/IMG_1347.JPG)
+--------------------------|------------------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## [](#header-2) Supplementary information
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iforaa/CommentSold-Guideline/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+  Information                           | Example
+----------------------------------------|------------------
+Main Color                              | red: 228, green: 165, blue: 141
+----------------------------------------|------------------
+Allow notifications lines               | Hey Diva/We only need one thing before you get started/We use this to send you new arrivals & love notes
+----------------------------------------|------------------
+Feed categories                         | Divas / Dolls / The Market 
+----------------------------------------|------------------
+Search categories                       | Dress / Shirt / Tunic / All
+----------------------------------------|------------------
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## [](#header-2) External Services
+
+
+
+1.  intercomApiKey
+
+2.  intercomAppId 
+
+3.  payPalEnvironmentProduction
+
+4.  payPalEnvironmentSandbox             
+
+5.  stripePublishableKey                
+
+6.  stripeAppleMerchantIdentifier(APPLE PAY)
